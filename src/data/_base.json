@@ -1,0 +1,34 @@
+{
+  "publicPath": "/",
+  "app": {
+    "name": "Résume",
+    "startUrl": "/"
+  },
+  "title": "Résume |Byeongsoo Kim",
+  "ga": "UA-000000000-0",
+  "introText": ["WELCOME", "Byeongsoo's Portfolio."],
+  "profile": {
+    "name": "Byeongsoo Kim",
+    "email": "kbsjigi@gmail.com",
+    "photo": "avatar.png",
+    "introduce": "If you don't walk today, you have to run tomorrow",
+    "social": [
+      {
+        "icon": "github",
+        "label": "bsjigi",
+        "url": "https://github.com/bsjigi"
+      }
+    ],
+    "skill": [
+      {
+        "label": "Vue.js",
+        "color": "vue"
+      },
+      {
+        "label": "Other",
+        "color": "ts"
+      }
+    ],
+    "hobby": ["영화", "운동"]
+  }
+}
