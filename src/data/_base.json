@@ -34,41 +34,29 @@
       }
     ],
     "skill": [
-      {
+       {
         "label": "JavaScript",
         "color": "js"
-      },
-      {
-        "label": "TypeScript",
-        "color": "ts"
       },
       {
         "label": "Python",
         "color": "python"
       },
       {
-        "label": "Vue.js",
-        "color": "vue"
+        "label": "C",
+        "color": "c"
       },
       {
-        "label": "React",
-        "color": "react"
+        "label": "C++",
+        "color": "cpp"
       },
       {
-        "label": "Node.js",
-        "color": "node"
+        "label": "Kotlin",
+        "color": "Kot"
       },
       {
-        "label": "Webpack",
-        "color": "objectivec"
-      },
-      {
-        "label": "Rollup",
-        "color": "#ec483f"
-      },
-      {
-        "label": "SCSS",
-        "color": "scss"
+        "label": "Java",
+        "color": "java"
       },
       {
         "label": "Git",
