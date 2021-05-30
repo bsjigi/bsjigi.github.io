@@ -37,12 +37,12 @@
     "typescript": "^4.1.2"
   },
   "bugs": {
-    "url": "https://github.com/leegeunhyeok/resume/issues"
+    "url": "https://github.com/bsjigi/resume/issues"
   },
-  "homepage": "https://github.com/leegeunhyeok/resume#readme",
+  "homepage": "https://github.com/bsjigi/resume#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leegeunhyeok/resume.git"
+    "url": "git+https://github.com/bsjigi/resume.git"
   }
 }
