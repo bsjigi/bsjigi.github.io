@@ -86,14 +86,6 @@
       "tag":["cpp"]
     },
     {
-      "name": "Easy Commit",
-      "date": "2020.06",
-      "image": "contents/easy-commit.jpg",
-      "description": "쉽고 간편한 커밋 메시지 도우미",
-      "url": "https://github.com/leegeunhyeok/easy-commit",
-      "tag": ["ts", "node", "cli"]
-    },
-    {
      "name":"OCR",
       "date":"2021.05",
       "image":"contents/OCR.jpg",
