@@ -1,0 +1,67 @@
+{
+  "tags": {
+    "type": [
+      {
+        "id": "comp",
+        "color": "pwa",
+        "label": "Company"
+      },
+      {
+        "id": "career",
+        "color": "ts",
+        "label": "Career"
+      },
+      {
+        "id": "cert",
+        "color": "#ff6347",
+        "label": "Certification"
+      },
+      {
+        "id": "edu",
+        "color": "vue",
+        "label": "Education"
+      },
+      {
+        "id": "pub",
+        "color": "js",
+        "label": "Publication"
+      }
+    ]
+  },
+  "content": [
+    {
+      "title": "에브리포탈(주요 사이트 인기 검색어 맟 트렌트 키워드 크롤링 안드로이드 앱)",
+      "from": "2021.03",
+      "to": "progressing",
+      "tag": "pub"
+    },
+
+    {
+      "title": "리눅스마스터 2급",
+      "from": "2020.10.23",
+      "tag": "cert"
+    },
+    {
+     "title": "쿠버네티스 + STR 엔진 기반 어플리케이션",
+      "from": "2021.03",
+      "to": "progressing",
+      "tag": "pub"
+    },
+    {
+      "title": "MLP 구현을 통한 MNIST 숫자 필기체 인식",
+      "from": "2020.12",
+      "tag": "pub"
+    },
+    {
+      "title": "네트워크관리사 2급",
+      "from": "2021.01",
+      "tag": "cert"
+    },
+    {
+      "title": "강원대학교",
+      "from": "2016.03",
+      "to": "present",
+      "tag": "edu"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "publicPath": "/dist",
+  "app": {
+    "name": "Résume",
+    "startUrl": "/"
+  },
+  "title": "Résume | Byeongsoo Kim",
+  "ga": "UA-156696575-2",
+  "introText": ["For better", "Web experience."],
+  "profile": {
+    "name": "Byeongsoo Kim",
+    "email": "kbsjigi@gmail.com",
+    "photo": "avatar.png",
+    "introduce": "If you don't walk todya, you have to run tomorrow",
+    "social": [
+      {
+        "icon": "github",
+        "label": "bsjigi",
+        "url": "https://github.com/bsjigi"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Byeongsoo Kim",
+        "url": "https://www.linkedin.com/in/병수-김-a70832201"
+      },
+      {
+        "icon": "instagram",
+        "label": "@bsjigi_121",
+        "url": "https://www.instagram.com/bsjigi_121"
+      },
+      {
+        "icon": "facebook",
+        "label": "Martin Kim",
+        "url": "https://www.facebook.com/martin.kim.54"
+      }
+    ],
+    "skill": [
+      {
+        "label": "JavaScript",
+        "color": "js"
+      },
+      {
+        "label": "TypeScript",
+        "color": "ts"
+      },
+      {
+        "label": "Python",
+        "color": "python"
+      },
+      {
+        "label": "Vue.js",
+        "color": "vue"
+      },
+      {
+        "label": "React",
+        "color": "react"
+      },
+      {
+        "label": "Node.js",
+        "color": "node"
+      },
+      {
+        "label": "Webpack",
+        "color": "objectivec"
+      },
+      {
+        "label": "Rollup",
+        "color": "#ec483f"
+      },
+      {
+        "label": "SCSS",
+        "color": "scss"
+      },
+      {
+        "label": "Git",
+        "color": "git"
+      },
+      {
+        "label": "Docker",
+        "color": "docker"
+      },
+      {
+        "label": "Linux",
+        "color": "gray"
+      }
+    ],
+    "hobby": ["프로그래밍", "운동"]
+  }
+}
