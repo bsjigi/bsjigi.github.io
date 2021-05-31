@@ -39,11 +39,6 @@
         "label": "Vue"
       },
       {
-        "id": "node",
-        "color": "node",
-        "label": "Node.js"
-      },
-      {
         "id": "pwa",
         "color": "pwa",
         "label": "PWA"
@@ -95,7 +90,8 @@
       "date":"2021.05",
       "image":"contents/OCR.jpg",
       "description":"쿠버네티스를 사용한 STR 기반 엔진 어플리케이션",
-      "url":"https://github.com/bsjigi/2021_KNU","tag":["kot","py"]
+      "url":"https://github.com/bsjigi/2021_KNU",
+      "tag":["kot","py"]
     },
     {
       "name":"LoveTest_Android",
