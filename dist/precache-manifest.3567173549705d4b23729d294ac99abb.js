@@ -41,7 +41,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6a8cd611a0e0ab6cdcb5843b3e336958",
-    "url": "/dist/img/webcrawler.jpg"
+    "url": "/dist/img/webcrawler.6a8cd611.jpg"
   },
   {
     "revision": "7676a522d11ef81379e7a2dcfcb0bbc8",
@@ -49,7 +49,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "afd9fc02a3a60d46405231bd9fcef567",
-    "url": "/dist/img/MNIST.jpg"
+    "url": "/dist/img/MNIST.afd9fc02.jpg"
   },
   {
     "revision": "e54afbf8084b8af931d4f053aba8aeb7",
@@ -61,7 +61,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "34f2c34d2aeb658b7d1bbf57d3056373",
-    "url": "/dist/img/OCR.jpg"
+    "url": "/dist/img/OCR.34f2c34d.jpg"
   },
   {
     "revision": "82abb380fc632a397bd2f9743ea4083d",
@@ -105,7 +105,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b5bc29cc649e678f32dcb1ea13e61a2b",
-    "url": "/dist/img/LoveTest.jpg"
+    "url": "/dist/img/LoveTest.b5bc29cc.jpg"
   },
   {
     "revision": "99e688c8f7b51ba3bdcda70deba9dcb0",
@@ -157,11 +157,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ce65aafc6eee7bb27d6b177b0c97626e",
-    "url": "/dist/img/everyportal.jpg"
+    "url": "/dist/img/everyportal.ce65aafc.jpg"
   },
   {
     "revision": "424dfe3cac135c068b9faa5271187834",
-    "url": "/dist/img/LexicalAnalyzer.jpg"
+    "url": "/dist/img/LexicalAnalyzer.424dfe3c.jpg"
   },
   {
     "revision": "141855a9d5d56aa35801ae6837313f36",
