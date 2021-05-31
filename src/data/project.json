@@ -47,7 +47,7 @@
     "other": [
       {
         "id": "kot",
-        "color": "orange",
+        "color": "kotlin",
         "label": "Kotlin"
       },
       {
@@ -59,7 +59,7 @@
   },
   "content": [
     {
-      "name": "Clow",
+      "name": "WebCrawler",
       "date": "2020.12",
       "image": "contents/clow.jpg",
       "description": "쉽고 강력한 웹 크롤러",
