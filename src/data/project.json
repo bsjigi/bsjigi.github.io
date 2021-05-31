@@ -6,6 +6,11 @@
         "color": "js",
         "label": "JavaScript"
       },
+       {
+        "id": "ts",
+        "color": "ts",
+        "label": "TypeScript"
+      },
       {
         "id": "py",
         "color": "python",
