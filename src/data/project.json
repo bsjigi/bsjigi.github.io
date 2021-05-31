@@ -46,7 +46,7 @@
     ],
     "other": [
       {
-        "id": "Kot",
+        "id": "kot",
         "color": "orange",
         "label": "Kotlin"
       },
@@ -90,7 +90,7 @@
       "date":"2021.05",
       "image":"contents/OCR.jpg",
       "description":"쿠버네티스를 사용한 STR 기반 엔진 어플리케이션",
-      "url":"https://github.com/bsjigi/2021_KNU","tag":["Kot","py"]
+      "url":"https://github.com/bsjigi/2021_KNU","tag":["kot","py"]
     },
     {
       "name":"LoveTest_Android",
@@ -98,7 +98,7 @@
       "image":"contents/LoveTest.jpg",
       "description":"사랑 심리 안드로이드 앱",
       "url":"https://github.com/bsjigi/LoveTest_Android",
-      "tag":["py","Kot"]
+      "tag":["py","kot"]
     },
     {
      "name":"LexicalAnalyzer",
@@ -115,7 +115,7 @@
       "image":"contents/powerlevel9k.jpg",
       "description":"인터넷 주요 트렌드 수집 어플리케이션",
       "url":"https://github.com/cskhw/everyportal",
-      "tag":["Kot"]
+      "tag":["kot"]
     }
   ]
 }
